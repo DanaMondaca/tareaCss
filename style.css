@@ -1,0 +1,39 @@
+body {
+    background-color: coral;
+    text-align: center;
+    color: darkblue;
+}
+
+.color_texto{
+  color: rgb(172, 51, 51);
+}
+
+#contenedor_principal{
+    background-color: rgb(181, 237, 209);
+    border: 2px solid black;
+    margin: 20px
+}
+#cabecera {
+    background-color: aliceblue;
+    padding: 10px;
+}
+#menu { 
+    background-color:rgb(201, 239, 238);
+}
+#izquierda {
+    background-color: rgb(232, 204, 183);
+    float: left;
+    width: 50%;
+}
+#derecha {
+    background-color: rgb(228, 214, 209);
+    float: right;
+    width: 50%;
+    
+}
+#pie {
+    background-color: rgb(213, 154, 241);
+   clear: both;
+   padding: 10px;
+   
+}
